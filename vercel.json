@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "spacex_dash_app.py"
+      "dest": "app.py"
     }
   ]
 }
